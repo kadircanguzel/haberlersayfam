@@ -1,6 +1,6 @@
 # haberlersayfam
 BTK Akademi **Erzurum** FrontEnd Developer 2.Gün 
-## Biz *Bugün;
+## Biz *bugün;
 * Body tasarımı - header, nav, article, footer
 * formlar
 
